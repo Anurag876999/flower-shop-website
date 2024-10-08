@@ -1,4 +1,4 @@
-#🌺flower-shop-websit💐
+#🌺flower-shop-website💐
 To conclude the development of a flower shop website using PHP, HTML, CSS, and MySQL, here are the key points:
 
 1. Website Overview
